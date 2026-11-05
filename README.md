@@ -1,5 +1,7 @@
-<a href="https://dataannotation.vercel.app/vVolkov23/?1c8b525578704d00"><img src="readme/card.svg?v=1793751093" alt="" width="1600" /></a>
+<div align="center">
 
-Building small tools and experiments, and this is where it shows up.
+<a href="https://dataannotation.vercel.app/vVolkov23/?1c8b525578704d00">
+  <img src="https://raw.githubusercontent.com/vVolkov23/vVolkov23/main/readme/card-1793896072.png" alt="Collaboration offer — long-term AI and software work" width="960" />
+</a>
 
-[Read the collaboration proposal →](https://dataannotation.vercel.app/vVolkov23/?1c8b525578704d00)
+</div>
